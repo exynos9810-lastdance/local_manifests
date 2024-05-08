@@ -1,3 +1,3 @@
-# local_manifests-V2
+# local_manifests
 
-git clone https://github.com/samsungexynos9810/local_manifests-V2 -b main .repo/local_manifests
+git clone https://github.com/exynos9810-lastdance/local_manifests -b fourteen .repo/local_manifests
